@@ -19,3 +19,5 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ![screenshot](/images/API%20.png)
 
+Walkthrough Video
+- https://drive.google.com/file/d/1GRWJvoV9qhAM3xT0_yjr40r48elsy1IB/view 
